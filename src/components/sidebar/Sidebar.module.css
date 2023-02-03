@@ -60,3 +60,8 @@
   background: var(--green-500);
   color: var(--white);
 }
+
+.sidebar footer a:focus {
+  background-color: var(--green-500);
+  color: var(--white);
+}
